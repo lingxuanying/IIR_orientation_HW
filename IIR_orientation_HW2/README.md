@@ -1,0 +1,12 @@
+# IIR新生訓練HW2
+- 環境: Colab上用CPU全部執行就可以了
+- 使用模型
+    - XGBoost
+- LeaveOneOut
+    - 總共100005筆會跑很久，故選前1000筆計算
+- Top-n Hit Rate
+    - Assume n = 3
+    - Hit的選擇順序
+        - rating(越大=>優先)
+        - timestamp(越大=>越近期的評分標準=>優先)
+        - movieId(越小=>優先)
