@@ -46,7 +46,10 @@
 ![](https://i.imgur.com/PgqxEOR.png)
 - Compute the probabilities that they would generate another 100kb section of the human genome.
 ![](https://i.imgur.com/nLJ2V0p.png)
+## Report
+- Running time & Memory usage
 
+![](https://i.imgur.com/TkKRkQ5.png)
 
 ### 參考網站
 - [hmmlearn Tutorial](https://hmmlearn.readthedocs.io/en/latest/tutorial.html#building-hmm-and-generating-samples)
